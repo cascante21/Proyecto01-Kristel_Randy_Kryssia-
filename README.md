@@ -1,4 +1,4 @@
-## Randy Cascante Espinoza C11718
+## Randy Cascante - Kryssia Martinez- Kristel Hidalgo - Dylanna Rodriguez
 ## Proyecto de Programacion Bajo Plataformas Abiertas IE-0117
 ## Descripción del código
 
